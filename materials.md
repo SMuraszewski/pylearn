@@ -11,4 +11,10 @@ in order to help you as much as it helped us
 
 ## Some words about Python 
 
-## 
+## Book Recomendations 
+
+## Articles 
+
+## Youtube Series 
+
+## Free Online Courses
