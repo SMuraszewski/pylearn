@@ -12,10 +12,10 @@ in order to help you as much as it helped us
 ## Some words about Python 
 Word or two about origin of 'Python'
 Python was created in early 90s by Guido van Rossum, as the successor of ABC langugage. 
-The name 'Python' comes from comedy series emited in 70s by BBC called "Monty Python's Flying Circus"
+The name 'Python' comes from comedy series emited in 70s by BBC called "Monty Python's Flying Circus"    
 At the start it's worth to mention that Python is interpreted langugage, so it means basicly, that the interpreter executes the program directly, translating each statement into already compiled machine code. 
 Main idea behind this language is to develop clear and easy to maintain source code, with transpartent syntaxes 
-and big amount external libraries, okay, so...
+and big amount of external libraries, okay, so...
 Let's start!
 ,,
 ## Book Recomendations 
