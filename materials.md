@@ -31,11 +31,19 @@ Let's start!
 ## Articles 
 
 ## Youtube Series 
+
 http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/index.htm - YouTube course by MIT.
 
 ## Free Online Courses
+
 https://docs.python.org/3/tutorial/ - Official tutorial.
+
 https://automatetheboringstuff.com/ - 'Automate the boring stuff with Python' by Al Sweitgart. The best source to learn programming.
+
+https://www.sololearn.com/Course/Python/ - SoloLearn course to Python 3.
+
+http://www.diveintopython3.net/ - 'Dive into Python 3'
+
 http://www.openbookproject.net/thinkcs/python/english3e/ - 'How to Think Like a Computer Scientist. Python 3'
 
 ## Popular Text Editors/IDE
